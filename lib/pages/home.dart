@@ -60,7 +60,7 @@ class _HomeState extends State<Home> {
                   });
                     },
                     icon: Icon(Icons.edit_location),
-                    label: Text('Edit Location'),
+                    label: Text('Edit Locations'),
                   ),
                   SizedBox(height: 20.0),
                   Row(
